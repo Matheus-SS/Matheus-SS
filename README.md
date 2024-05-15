@@ -1,8 +1,7 @@
 ### Olá! Prazer, eu sou o Matheus 👋
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estudando Docker, Graphql
-- ⚡ Fato curioso: Amo jogar CS
+- 🌱 Estudando Docker, Go, Htmx, React-native
 
 <div align="left">
   <a href="https://github.com/Matheus-SS">
